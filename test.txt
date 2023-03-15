@@ -1,2 +1,3 @@
 welcome to text file
 welcome to modified file for pull command
+welcome to fetch command
